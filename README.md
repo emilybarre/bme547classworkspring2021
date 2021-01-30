@@ -1,5 +1,5 @@
 i# Health Database
-
+By: Emily Barre
 ## Introduction
 This program will be a database that contains health information about patients. 
 
